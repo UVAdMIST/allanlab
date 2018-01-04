@@ -6,20 +6,32 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Award Information
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+###### Organization: National Science Foundation
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
+###### Sub-Section: CBET (Division of Chemistry, Bioenginering, Environmental and Transportation Systems)
+
+###### Inital Amendment Date: August 20, 2017
+
+###### Start Date: September 1, 2017
+
+###### Sponsor: University of Virginia
+
+###### NSF Program: CRISP - Critical Resilient Int
+
+
+# Research Abstract
+
+The overarching objective of this Critical Resilient Interdependent Infrastructure Systems and Processes (CRISP) research project is to create a novel decision support system denoted dMIST (Data-driven Management for Interdependent Stormwater and Transportation Systems) to improve management of interdependent transportation and stormwater infrastructure systems. dMIST is designed specifically to address the critical problem of recurrent flooding caused by sea level rise and more frequent intense storms. The City of Norfolk, Virginia, a national leader in addressing the sea level rise challenge, will collaborate with the research team and serve as the project testbed. With sea level rise and more frequent intense storms, streets in many cities now flood multiple times per year. Flooding of roadways has cascading impacts to other infrastructure systems that depend on the road network including emergency services. Solving the problem of flooded roadways requires new tools capable of analyzing stormwater, transportation, and other infrastructure as interdependent systems. dMIST will be a recommendation system for assisting municipal decision makers and stakeholders in day-to-day operations to mitigate the short-term impacts of road flooding occurrences. It will also offer decision makers novel ways of testing "what if" scenarios that stretch across interdependent infrastructure systems in order to guide how large investments are used to adapt infrastructure systems to a more resilient future
+
+state.
+
+The core intellectual merit of this research is the advancement of a novel modeling and control framework called Data Predictive Control (DPC) for assisting decision makers in understanding and managing interdependent critical infrastructure systems (ICIs). The research is expected to provide four key novel contributions that are critically needed for management of ICIs using DPC. The research is targeted to result in: (1) new methods for data-driven, control-oriented modeling for real-time operations and control synthesis of interdependent stormwater and transportation networks that will complement the knowledge already encoded in existing infrastructure models and decision-making processes; (2) new hybrid-modeling approaches for long-term planning of infrastructure systems that combine the benefits of data-driven models with physics-based (first principles) models to allow decision-makers to explore "what if" scenarios; (3) new recommendation systems whose interpretive capabilities will be evolved in consultation with decision-makers and stakeholders, with this consultation process being studied as part of the research; and (4) new methods to reduce sensing costs that analyze the confidence of recommendations from hybrid models, and how that confidence changes with hypothetical new sensor investments. The research is intended to have broad impact related to national economic and security interests due to its focus on sea level rise. Sea level rise of an additional foot is estimated to cost our nation $200 billion. Given that a common projection for sea level rise is four feet by the end of the century and the nonlinear relationship between sea level rise and infrastructure costs, the total cost will be much higher. This project is also designed to have an immediate impact on Norfolk, the testbed site. Norfolk, because they are considered to be the second most vulnerable city in the nation to sea level rise impacts, provides an ideal testbed for the research goal of producing generalizable outcomes that can be applied to other cities in order to get ahead of this problem. To this end, a specific aim of this work is to encourage innovation in the growing industry of real-time infrastructure monitoring and control to address the challenges introduced by sea level rise.
+
+
  
+<!--
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+-->
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
-
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
-
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
-
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.

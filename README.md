@@ -1,11 +1,8 @@
-# Allan Lab Website
+# dMIST Research Group Website
 
-This is the website of our academic research group at Leiden University.
+This is the website of the Data-driven Management for Interdependent Stormwater and Transportation systems (dMIST) research project group.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
-
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+This website is powered by Jekyll and some Bootstrap, Bootwatch. It was forked from the <a herf="http://www.allanlab.org/"> Allen Lab at Leiden University</a> website which provides a copy that can be modified for your own purpose.
 
 
-Copyright Allan Lab. Code released under the MIT License.
-
+Copyright Jon Goodall 2017. Code released under the MIT License.

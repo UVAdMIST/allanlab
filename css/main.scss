@@ -19,7 +19,9 @@ figcaption {
     margin-bottom: 20px;
 }
 
-
+.panel {
+    margin-bottom: 0px;
+}
 
 /* Top navigation bar */
 
@@ -32,6 +34,15 @@ p.byline {
 	margin-bottom: 48px;
 }
 
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #767a82;
+    
+}
+
+.navbar {
+    border-width: 0 0 5px 0;
+}
 
 pubtit {
 	font-weight: bold;
@@ -44,6 +55,16 @@ firstp {
   margin-right: auto;
   margin-left: auto;
   max-width: 1000px; /* or 950px */
+}
+
+/* Footer */
+
+.panel-footer {
+    background-color: #282c34;
+}
+
+.panel {
+    border-width: 0 0 0 0;
 }
 
 /* Home, News */
@@ -60,6 +81,12 @@ firstp {
 	margin-bottom: 6px;
 }
 
+.well {
+    background-color: #ffffff;
+    border-color: #767a82;
+    border-width: medium;
+}
+
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
@@ -72,6 +99,11 @@ firstp {
 .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
 	padding-left: 16px;
 	padding-right: 16px;
+    padding-bottom: 15px;
+}
+
+.col-sm-8 {
+    text-align: center;
 }
 
 /* Grid overrides */
