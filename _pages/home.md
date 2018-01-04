@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "dMIST Research Group - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "dMIST Research Group Website"
 sitemap: false
 permalink: /
 ---
