@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "dMIST Research Group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
