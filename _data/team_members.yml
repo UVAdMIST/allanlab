@@ -8,7 +8,9 @@
 #  education3: Postdoc Cornell
 #  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
 #  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-  
+ 
+#Professor 
+ 
 - name: Jonathan Goodall
   photo: goodall2.jpg
   info: Principal Investigator, University of Virginia
@@ -41,7 +43,6 @@
   number_educ: 1
   education1: Assistan Professor - Department of Civil and Environmental Engineering
   
-  
 - name: Michael Gorman
   photo: gorman.jpg
   info: Co-Principal Investigator, University of Virginia
@@ -49,4 +50,84 @@
   number_educ: 2
   education1: Professor - Department of Engineering and Society
   education2: Director of the Science, Technology, and Society Program and the Policy Internship Program
+  
+- name: Brad Campbell
+  photo: campbell.jpg
+  info: Assistant Professor - Computer science and Electrical Engineering
+  email: bjc8c@virginia.edu
+  number_educ: 1
+  education1: Member of the Link Lab  
+
+# Other Association
+
+- name: Jon Derek Loftis
+  photo: Loftis.jpg
+  info: Virginia Insitiute of Marine Science
+  email: jdloftis@vims.edu
+  number_educ: 1
+  education1: Assistant Research Scientist - VIMS Center for Coastal Resources Management
+  
+- name: Kyle Spencer
+  photo: dummy.png
+  info: City of Norfolk GIS Manager and Office of Resilience Technical Lead
+  email: kyle.spencer@norfolk.gov
+  number_educ: 0
+
+# Graduate Students
+
+- name: Shraddha Praharaj
+  photo: dummy.png
+  info: Engineering Graduate Student
+  email: sp3at@virginia.edu
+  number_educ: 0
+  
+- name: Alex Chen
+  photo: chen2.jpg
+  info: Engineering Graduate Student
+  email: abc8fq@virginia.edu
+  number_educ: 0
+  
+- name: Benjamin Bowes
+  photo: bowes.jpg
+  info: Engineering Graduate Student
+  email: bdb3m@virginia.edu
+  number_educ: 0
+  
+- name: Faria Zahura
+  photo: zahura.jpg
+  info: Engineing Graduate Student
+  email: fz7xb@virginia.edu
+  number_educ: 0
+  
+- name: Jeff Sadler
+  photo: sadler.jpg
+  info: Engineering Graduate Student
+  email: jms3fb@virginia.edu
+  number_educ: 0
+  
+- name: Zihao Zhang
+  photo: dummy.png
+  info: Architecture Graduate Student
+  email: zz3ub@virginia.edu
+  number_educ: 0
+  
+#Undergraduate Students
+
+- name: Imaan Hameed
+  photo: hameed.jpg
+  info: Engineering Undergraduate Student
+  email: mih7gf@virginia.edu
+  number_educ: 0
+  
+- name: Kristina Fauss
+  photo: dummy.png
+  info: Engineering Undergraduate Student
+  email: kdf3we@virginia.edu
+  number_educ: 0
+  
+- name: Meredith Sutton
+  photo: Sutton3.jpg
+  info: Engineering Undergraduate Student
+  email: mks7ad@virginia.edu
+  number_educ: 0
   
