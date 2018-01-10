@@ -68,7 +68,7 @@
   education1: Assistant Research Scientist - VIMS Center for Coastal Resources Management
   
 - name: Kyle Spencer
-  photo: dummy.png
+  photo: spencer.jpg
   info: City of Norfolk GIS Manager and Office of Resilience Technical Lead
   email: kyle.spencer@norfolk.gov
   number_educ: 0
@@ -76,7 +76,7 @@
 # Graduate Students
 
 - name: Shraddha Praharaj
-  photo: dummy.png
+  photo: praharaj.jpg
   info: Engineering Graduate Student
   email: sp3at@virginia.edu
   number_educ: 0
@@ -106,7 +106,7 @@
   number_educ: 0
   
 - name: Zihao Zhang
-  photo: dummy.png
+  photo: Zhang.jpg
   info: Architecture Graduate Student
   email: zz3ub@virginia.edu
   number_educ: 0
@@ -120,7 +120,7 @@
   number_educ: 0
   
 - name: Kristina Fauss
-  photo: dummy.png
+  photo: fauss.jpg
   info: Engineering Undergraduate Student
   email: kdf3we@virginia.edu
   number_educ: 0
