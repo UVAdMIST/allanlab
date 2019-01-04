@@ -1,9 +1,9 @@
 ---
-title: "dMIST Research Group - Research"
+title: "dMIST Research Group - Overview"
 layout: textlay
-excerpt: "dMIST Research Group -- Research"
+excerpt: "dMIST Research Group -- Overview"
 sitemap: false
-permalink: /research/
+permalink: /overview/
 ---
 
 # Award Information
@@ -30,8 +30,7 @@ state.
 The core intellectual merit of this research is the advancement of a novel modeling and control framework called Data Predictive Control (DPC) for assisting decision makers in understanding and managing interdependent critical infrastructure systems (ICIs). The research is expected to provide four key novel contributions that are critically needed for management of ICIs using DPC. The research is targeted to result in: (1) new methods for data-driven, control-oriented modeling for real-time operations and control synthesis of interdependent stormwater and transportation networks that will complement the knowledge already encoded in existing infrastructure models and decision-making processes; (2) new hybrid-modeling approaches for long-term planning of infrastructure systems that combine the benefits of data-driven models with physics-based (first principles) models to allow decision-makers to explore "what if" scenarios; (3) new recommendation systems whose interpretive capabilities will be evolved in consultation with decision-makers and stakeholders, with this consultation process being studied as part of the research; and (4) new methods to reduce sensing costs that analyze the confidence of recommendations from hybrid models, and how that confidence changes with hypothetical new sensor investments. The research is intended to have broad impact related to national economic and security interests due to its focus on sea level rise. Sea level rise of an additional foot is estimated to cost our nation $200 billion. Given that a common projection for sea level rise is four feet by the end of the century and the nonlinear relationship between sea level rise and infrastructure costs, the total cost will be much higher. This project is also designed to have an immediate impact on Norfolk, the testbed site. Norfolk, because they are considered to be the second most vulnerable city in the nation to sea level rise impacts, provides an ideal testbed for the research goal of producing generalizable outcomes that can be applied to other cities in order to get ahead of this problem. To this end, a specific aim of this work is to encourage innovation in the growing industry of real-time infrastructure monitoring and control to address the challenges introduced by sea level rise.
 
 
- 
+
 <!--
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 -->
-

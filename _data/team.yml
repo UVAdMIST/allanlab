@@ -8,126 +8,100 @@
 #  education3: Postdoc Cornell
 #  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
 #  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
- 
-#Professor 
- 
+
+#Professor
+
 - name: Jonathan Goodall
   photo: goodall2.jpg
   info: Principal Investigator, University of Virginia
   email: goodall@virginia.edu
-  number_educ: 2
-  education1: Associate Professor - Department of Civil and Environmental Engineering, Associate Professor by courtesy - Department of Computer Science
-  education2: Associate Director of the Link Lab and Group Leader of the UVa Hydroinformatics Research Group
-  
+  description: Associate Professor - Civil Engineering (Water Resources)
+
 - name: Madhur Behl
   photo: behl.jpg
   info: Co-Principal Investigator, University of Virginia
   email: madhur.behl@virginia.edu
-  number_educ: 3
-  education1: Assistant Professor - Department of Computer Science
-  education2: Secondary Appointment - Department of Systems and Information Engineering
-  education3: Co-Founder of Expresso Logic
+  description: Assistant Professor - Computer Science
 
 - name: Cameron (Kamin) Whitehouse
   photo: whitehouse.jpg
   info: Co-Principal Investigator, University of Virginia
   email: whitehouse@virginia.edu
-  number_educ: 2
-  education1: Commonwealth Associate Professor - Department of Computer Science
-  education2: Director of the Link Lab
+  description: Commonwealth Associate Professor - Computer Science
 
 - name: T. Donna Chen
   photo: chen.jpg
   info: Co-Principal Investigator, University of Virginia
   email: tdchen@virginia.edu
-  number_educ: 1
-  education1: Assistan Professor - Department of Civil and Environmental Engineering
-  
+  description: Assistant Professor - Civil Engineering (Transportation)
+
 - name: Michael Gorman
   photo: gorman.jpg
   info: Co-Principal Investigator, University of Virginia
   email: meg3cstar@gmail.com
-  number_educ: 2
-  education1: Professor - Department of Engineering and Society
-  education2: Director of the Science, Technology, and Society Program and the Policy Internship Program
-  
+  description: Professor - Social Psychology
+
 - name: Brad Campbell
   photo: campbell.jpg
-  info: Assistant Professor - Computer science and Electrical Engineering
+  info: Co-Principal Investigator, University of Virginia
   email: bjc8c@virginia.edu
-  number_educ: 1
-  education1: Member of the Link Lab  
+  description: Assistant Professor - Computer Science
 
 # Other Association
 
-- name: Jon Derek Loftis
-  photo: Loftis.jpg
-  info: Virginia Insitiute of Marine Science
-  email: jdloftis@vims.edu
-  number_educ: 1
-  education1: Assistant Research Scientist - VIMS Center for Coastal Resources Management
-  
 - name: Kyle Spencer
   photo: spencer.jpg
-  info: City of Norfolk GIS Manager and Office of Resilience Technical Lead
+  info: City of Norfolk, Deputy Director of Office of Resilience
   email: kyle.spencer@norfolk.gov
-  number_educ: 0
 
 # Graduate Students
 
 - name: Shraddha Praharaj
   photo: praharaj.jpg
-  info: Engineering Graduate Student
+  info:  Graduate Research Assistant
   email: sp3at@virginia.edu
-  number_educ: 0
-  
+  description: Ph.D. student - Civil Engineering (Transportation)
+
 - name: Alex Chen
   photo: chen2.jpg
-  info: Engineering Graduate Student
+  info: Graduate Research Assistant
   email: abc8fq@virginia.edu
-  number_educ: 0
-  
+  description: Ph.D. student - Civil Engineering (Water Resources)
+
 - name: Benjamin Bowes
   photo: bowes.jpg
-  info: Engineering Graduate Student
+  info: Graduate Research Assistant
   email: bdb3m@virginia.edu
-  number_educ: 0
-  
+  description: Ph.D. student - Civil Engineering (Water Resources)
+
 - name: Faria Zahura
   photo: zahura.jpg
-  info: Engineing Graduate Student
+  info: Graduate Research Assistant
   email: fz7xb@virginia.edu
-  number_educ: 0
-  
+  description: Ph.D. student - Civil Engineering (Water Resources)
+
 - name: Jeff Sadler
   photo: sadler.jpg
-  info: Engineering Graduate Student
+  info: Graduate Research Assistant
   email: jms3fb@virginia.edu
-  number_educ: 0
-  
+  description: Ph.D. student - Civil Engineering (Water Resources)
+
 - name: Zihao Zhang
   photo: Zhang.jpg
-  info: Architecture Graduate Student
+  info: Graduate Research Assistant
   email: zz3ub@virginia.edu
-  number_educ: 0
-  
+  description: Ph.D. student - Architecture
+
 #Undergraduate Students
 
 - name: Imaan Hameed
   photo: hameed.jpg
-  info: Engineering Undergraduate Student
+  info:  Undergraduate Research Assistant
   email: mih7gf@virginia.edu
-  number_educ: 0
-  
+  description: B.S. student - Systems Engineering
+
 - name: Kristina Fauss
   photo: fauss.jpg
-  info: Engineering Undergraduate Student
+  info: Undergraduate Research Assistant
   email: kdf3we@virginia.edu
-  number_educ: 0
-  
-#- name: Meredith Sutton
-#  photo: Sutton3.jpg
-#  info: Engineering Undergraduate Student
-#  email: mks7ad@virginia.edu
-#  number_educ: 0
-  
+  description: B.S. student - Civil Engineering

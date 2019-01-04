@@ -10,13 +10,24 @@
 #  news2: (normal looking)
 
 
-- title: "dMIST - Data-driven Management for Interdependent Stormwater and transportation Systems"
-  image: dummy.png
-  description: "Award Abstract"
-  authors: J. Goodall, M. Behl, C. Whitehouse, T. Chen, M. Gorman
+- title: "Trust me, my neighbors say it's raining outside: ensuring data trustworthiness for crowdsourced weather stations"
+  image: chen_BuildSys_2018.png
+  description: Proceedings of the 5th Conference on Systems for Built Environments (BuildSys 2018), pg 25-28, doi:10.1145/3276774.3276792
+  authors: Chen, A.B., M. Behl, and J.L. Goodall
   link:
-    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735587&HistoricalAwards=false
-    display: National Science Foundation Award Proposal
+    url: https://doi.org/10.1145/3276774.3276792
+    display: Final Article
   highlight: 1
-  news2: 
 
+- title: Modeling urban coastal flood severity from crowd-sourced flood reports using Poisson regression and Random Forest
+  image: sadler_2018.jpg
+  description: Journal of Hydrology, 559, 43–55, doi:10.1016/j.jhydrol.2018.01.044
+  date: April 2018
+  authors: Sadler, J.M., Goodall, J.L. and Spencer, K.
+  link:
+    url: http://dx.doi.org/10.1016/j.jhydrol.2018.01.044
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Sadler_JHE_2018_Preprint.pdf
+    display: Preprint
+  highlight: 1

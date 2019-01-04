@@ -6,24 +6,14 @@ sitemap: false
 permalink: /
 ---
 
+<h3>Welcome to the dMIST Project Website</h3>
 
+<p>
+We are an interdisciplinary team of researchers at the University of Virginia using concepts from cyber-phyiscal systems to make transportation infrastructure systems more resilient to flooding. Our work is funded by the National Science Foundation through <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735587&HistoricalAwards=false">an award</a> from their Critical Resilient Interdependent Infrastructure Systems and Processes (CRISP) program.
+</p>
+
+<br />
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/RiverRocks.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/flooding.jpg" width="95%">
 </figure>
-
-Blurb about the research group.... I think that I am going to replace the slider with a static banner like photo unless you would like to keep it.
-
-
-<!--<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>-->
-
-
-
-
-
-
