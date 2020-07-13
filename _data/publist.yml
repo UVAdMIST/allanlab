@@ -109,3 +109,29 @@
     pdf: https://uvahydroinformatics.org/files/Sadler_JIS_2017_Preprint.pdf
     display: Preprint
   highlight: 0
+
+- title: "The Future of Artificial Intelligence (AI) and Machine Learning (ML) in Landscape Design: A Case Study in Coastal Virginia, USA"
+  image:
+  description: Journal of Digital Landscape Architecture, Dessau, Germany, pp. 2–9
+  date: January 2019
+  authors: Zhang, Z., Bowes, B.
+  link:
+    url: https://doi.org/10.14627/537663001
+    display: Final Article
+  linkpdf:
+    pdf: https://doi.org/10.14627/537663001
+    display: Preprint
+  highlight: 0
+
+- title: "Data Predictive Approach to Estimate Nuisance Flooding Impacts on Roadway Networks: Case Study of Norfolk, Virginia"
+  image: 
+  description: Presented at 99th Transportation Research Board Annual Meeting
+  date: January 2020
+  authors: Praharaj, S., Chen, T. D, Behl, M.
+  link:
+    url: https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/13905
+    display: Final Article
+  linkpdf:
+    pdf: https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/13905
+    display: Preprint
+  highlight: 0
