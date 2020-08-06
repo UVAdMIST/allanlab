@@ -9,7 +9,7 @@
 #  news1: (red bold)
 #  news2: (normal looking)
 
-
+#Conference Proceeding Papers
 - title: "Trust me, my neighbors say it's raining outside: ensuring data trustworthiness for crowdsourced weather stations"
   image: chen_BuildSys_2018.png
   description: Proceedings of the 5th Conference on Systems for Built Environments (BuildSys 2018), pg 25-28, doi:10.1145/3276774.3276792
@@ -19,6 +19,7 @@
     display: Final Article
   highlight: 0
 
+# Journal Publication
 - title: "Modeling urban coastal flood severity from crowd-sourced flood reports using Poisson regression and Random Forest"
   image: sadler_2018.jpg
   description: Journal of Hydrology, 559, 43–55, doi:10.1016/j.jhydrol.2018.01.044
@@ -32,6 +33,7 @@
     display: Preprint
   highlight: 0
 
+# Journal Publication
 - title: "Exploring real-time control of stormwater systems for mitigating flood risk due to sea level rise"
   image: RT_StmwtrCntrl_Sadler_Goodall_Behl_Bowes_Morsy.jpg
   description: Journal of Hydrology, doi:10.1016/j.jhydrol.2020.124571
@@ -45,6 +47,7 @@
     display: Preprint
   highlight: 1
 
+# Journal Publication
 - title: "Flood risk assessment and increased resilience for coastal urban watersheds under the combined impact of storm tide and heavy rainfall"
   image: FloodRisk&IncreasedResilience.jpg
   description: Journal of Hydrology, doi:10.1016/j.jhydrol.2019.124159
@@ -58,6 +61,7 @@
     display: Preprint
   highlight: 1
 
+#Journal Publication
 - title: "Leveraging open source software and parallel computing for model predictive control of urban drainage systems using EPA-SWMM5"
   image: OSS&ParallelComp.jpg
   description: Environmental Modelling & Software, doi:10.1016/j.envsoft.2019.07.009
@@ -71,6 +75,7 @@
     display: Preprint
   highlight: 0
 
+# Journal Publication
 - title: "Forecasting Groundwater Table in a Flood Prone Coastal City with Long Short-term Memory and Recurrent Neural Networks"
   image: FcastGndwtr.png
   description: Water, 11(5), 1098, doi:10.3390/w11051098
@@ -84,32 +89,7 @@
     display: Preprint
   highlight: 0
 
-- title: "Impact of Sea Level Rise on Roadway Flooding in the Hampton Roads Region of Virginia"
-  image: RoadwayFlooding.jpg
-  description: Journal of Infrastructure Systems, 23(4), doi:10.1061/(ASCE)IS.1943-555X.0000397
-  date: December 2017
-  authors: J.M. Sadler, N. Haselden, K. Mellon, A. Hackel, V. Son, J. Mayfield, A. Blase, J.L. Goodall
-  link:
-    url: https://www.mdpi.com/2073-4441/11/5/1098/htm
-    display: Final Article
-  linkpdf:
-    pdf: https://uvahydroinformatics.org/files/Sadler_JoHE_2017_Preprint.pdf
-    display: Preprint
-  highlight: 0
-
-- title: "Effect of Rain Gauge Proximity on Rainfall Estimation for Problematic Urban Coastal Watersheds in Virginia Beach, VA USA."
-  image: RainGaugeProx.jpg
-  description: Journal of Hydrologic Engineering, 22(9), doi:10.1061/(ASCE)HE.1943-5584.0001563
-  date: September 2017
-  authors: J.M. Sadler, J.L. Goodall, M.M. Morsy
-  link:
-    url: https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0001563
-    display: Final Article
-  linkpdf:
-    pdf: https://uvahydroinformatics.org/files/Sadler_JIS_2017_Preprint.pdf
-    display: Preprint
-  highlight: 0
-
+#Conference Paper
 - title: "The Future of Artificial Intelligence (AI) and Machine Learning (ML) in Landscape Design: A Case Study in Coastal Virginia, USA"
   image:
   description: Journal of Digital Landscape Architecture, Dessau, Germany, pp. 2–9
@@ -123,8 +103,9 @@
     display: Preprint
   highlight: 0
 
+#Conference Paper
 - title: "Data Predictive Approach to Estimate Nuisance Flooding Impacts on Roadway Networks: Case Study of Norfolk, Virginia"
-  image: 
+  image:
   description: Presented at 99th Transportation Research Board Annual Meeting
   date: January 2020
   authors: Praharaj, S., Chen, T. D, Behl, M.
@@ -133,5 +114,33 @@
     display: Final Article
   linkpdf:
     pdf: https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/13905
+    display: Preprint
+  highlight: 0
+
+#Conference Proceeding Papers
+- title: "Combined Effect of Storm Surge and Overland Flow on Flooding in a Coastal Urban Area"
+  image:
+  description: Presented at the Coastal Engineering Proceedings, doi:10.9753/icce.v36.currents.52
+  date: December 2018
+  authors: Tahvildari, N., Sahu, A., Shen, Y., Morsy, M., Goodall, J.
+  link:
+    url: https://www.researchgate.net/publication/330370314_Combined_Effect_of_Storm_Surge_and_Overland_Flow_on_Flooding_in_a_Coastal_Urban_Area
+    display: Final Article
+  linkpdf:
+    pdf: https://www.researchgate.net/publication/330370314_Combined_Effect_of_Storm_Surge_and_Overland_Flow_on_Flooding_in_a_Coastal_Urban_Area
+    display: Preprint
+  highlight: 0
+
+#Conference Proceeding Papers
+- title: "Leveraging open source software and parallel computing for model predictive control of urban drainage systems using EPA-SWMM5 and Python"
+  image:
+  description: Green Energy and Technology, doi:10.1007/978-3-319-99867-1_170
+  date: September 2019
+  authors: J. M. Sadler, J. L. Goodall, M. Behl, M. M. Morsy
+  link: #Note that the full text I found was only on researchgate, not hosted on a site I could like, like the hydroinformatics page
+    url: https://www.researchgate.net/publication/327381507_Leveraging_Open_Source_Software_and_Parallel_Computing_for_Model_Predictive_Control_Simulation_of_Urban_Drainage_Systems_Using_EPA-SWMM5_and_Python
+    display: Final Article
+  linkpdf:
+    pdf: https://www.researchgate.net/publication/327381507_Leveraging_Open_Source_Software_and_Parallel_Computing_for_Model_Predictive_Control_Simulation_of_Urban_Drainage_Systems_Using_EPA-SWMM5_and_Python
     display: Preprint
   highlight: 0
