@@ -144,3 +144,115 @@
     pdf: https://www.researchgate.net/publication/327381507_Leveraging_Open_Source_Software_and_Parallel_Computing_for_Model_Predictive_Control_Simulation_of_Urban_Drainage_Systems_Using_EPA-SWMM5_and_Python
     display: Preprint
   highlight: 0
+
+#Conference Paper
+- title: "Reputation system for ensuring data trustworthiness of crowdsourced weather stations: poster abstract"
+  image:
+  description: Proceedings of the 5th Conference on Systems for Built Environments, 198-199  2018, doi:10.1145/3276774
+  date: November 2018
+  authors: A.B. Chen, M. Behl, J.L. Goodall
+  link:
+    url: https://dl.acm.org/doi/pdf/10.1145/3276774.3281020
+    display: Final Article
+  linkpdf:
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3276774.3281020
+    display: Preprint
+  highlight: 0
+
+#Conference Paper
+- title: "Smart Cities Solutions for More Flood Resilient Communities"
+  image:
+  description: 2019 Systems and Information Engineering Design Symposium (SIEDS), doi:10.1109/SIEDS.2019.8735625
+  date: April 2019
+  authors: K. Carlson, A. Chowdhury, A. Kepley, E. Somerville, K. Warshaw, J. Goodall
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8735625?casa_token=O1EBSeTKojAAAAAA:pXuOokKtHaZKtYxckT397YI-LnJS8bIVMaUua9SYnkXCDmkYhuBNiJP3z4KROUvU3BLqfJqcoXk
+    display: Final Article
+  linkpdf:
+    pdf: https://ieeexplore.ieee.org/abstract/document/8735625?casa_token=O1EBSeTKojAAAAAA:pXuOokKtHaZKtYxckT397YI-LnJS8bIVMaUua9SYnkXCDmkYhuBNiJP3z4KROUvU3BLqfJqcoXk
+    display: Preprint
+  highlight: 0
+
+#Conference Paper
+- title: "Bridging the Trust Gap in Crowdsourced Hydrological Sensor Networks: Data Trustworthiness of Personal Weather Stations"
+  image:
+  description: AGU Fall Meeting Abstracts 2018, #doi not found
+  date: December 2018
+  authors: A.B. Chen, J.L. Goodall, M. Behl
+  link:
+    url: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H51E..03C/abstract
+    display: Final Article
+  linkpdf:
+    pdf: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H51E..03C/abstract
+    display: Preprint
+  highlight: 0
+
+#Conference Paper
+- title: "Assessing Current and Future Utility of Predictive Active Stormwater Controls for Reducing Flooding in Coastal Cities"
+  image:
+  description: AGU Fall Meeting Abstracts, #doi not found
+  date: December 2018
+  authors: J.M. Sadler, J.L. Goodall, M. Behl, M.M. Morsy
+  link:
+    url: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H43J2608S/abstract
+    display: Final Article
+  linkpdf:
+    pdf: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H43J2608S/abstract
+    display: Preprint
+  highlight: 0
+
+#Conference Paper
+- title: "Toward Forecasting Groundwater Table in Flood Prone Coastal Cities Using Long Short-term Memory and Recurrent Neural Networks"
+  image:
+  description: AGU Fall Meeting Abstracts, 2018, #doi not found
+  date: December 2018
+  authors: B.D. Bowes, J.L. Goodall, J.M. Sadler, M.M. Morsy, M. Behl
+  link:
+    url: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H21J1776B/abstract
+    display: Final Article
+  linkpdf:
+    pdf: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H21J1776B/abstract
+    display: Preprint
+  highlight: 0
+
+#Conference Paper
+- title: "Assessing the Risk of Coastal Urban Flooding due to High Tide and Extreme Rainfall Events with an accounting for Climate Change and Sea Level Rise"
+  image:
+  description: AGU Fall Meeting Abstracts 1 2018, #doi not found
+  date: December 2018
+  authors: Y. Shen, M.M. Morsy, J.L. Goodall, C. Huxley
+  link:
+    url: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H43J2600S/abstract
+    display: Final Article
+  linkpdf:
+    pdf: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H43J2600S/abstract
+    display: Preprint
+  highlight: 0
+
+#Conference Paper
+- title: "Predicting Urban Coastal Street Flooding at Hourly Time Scale Using Random Forest And Google WAZE"
+  image:
+  description: AGU Fall Meeting Abstracts, #doi not found
+  date: December 2018
+  authors: F.T. Zahura, J.M. Sadler, J.L. Goodall
+  link:
+    url: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H43J2599Z/abstract
+    display: Final Article
+  linkpdf:
+    pdf: https://ui.adsabs.harvard.edu/abs/2018AGUFM.H43J2599Z/abstract
+    display: Preprint
+  highlight: 0
+
+#Conference Paper
+- title: "Collaboration Among Apparently Incommensurable Expertises: A Case Study of Combining Expertises and Perspectives to Manage Climate Change in Coastal Virginia"
+  image:
+  description: AGU Fall Meeting Abstracts, doi:https://doi.org/10.1007/978-3-030-14335-0_14
+  date: May 2019
+  authors: M. Gorman, Z. Zhang, K.D. Fauss, B.D. Bowes
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-14335-0_14
+    display: Final Article
+  linkpdf:
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-14335-0_14
+    display: Preprint
+  highlight: 0
