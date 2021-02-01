@@ -80,28 +80,47 @@
   email: fz7xb@virginia.edu
   description: Ph.D. student - Civil Engineering (Water Resources)
 
-- name: Jeff Sadler
-  photo: sadler.jpg
-  info: Graduate Research Assistant
-  email: jms3fb@virginia.edu
-  description: Ph.D. student - Civil Engineering (Water Resources)
-
 - name: Zihao Zhang
   photo: Zhang.jpg
   info: Graduate Research Assistant
   email: zz3ub@virginia.edu
   description: Ph.D. student - Architecture
 
-#Undergraduate Students
+- name: Yawen Shen
+  photo: bio-photo2.jpg
+  info: Graduate Research Assistant
+  email: ys5dv@virginia.edu
+  description: Ph.D. student - Civil Engineering (Water Resources)
+
+- name: Jingyun Ning
+  photo: bio-photo2.jpg
+  info: Graduate Research Assistant
+  email: jn2ne@virginia.edu
+  description: Ph.D. student -
+
+- name: Luwei Zeng
+  photo: bio-photo2.jpg
+  info: Graduate Research Assistant
+  email: lz6ct@virginia.edu
+  description: Ph.D. student -
+
+#Alumni Students
+
+- name: Jeff Sadler
+  photo: sadler.jpg
+  info: Graduate Research Assistant Alumnus
+  email: jms3fb@virginia.edu
+  description: Ph.D. student - Civil Engineering (Water Resources)
+
 
 - name: Imaan Hameed
   photo: hameed.jpg
-  info:  Undergraduate Research Assistant
+  info:  Undergraduate Research Assistant Alumnus
   email: mih7gf@virginia.edu
   description: B.S. student - Systems Engineering
 
 - name: Kristina Fauss
   photo: fauss.jpg
-  info: Undergraduate Research Assistant
+  info: Undergraduate Research Assistant Alumna
   email: kdf3we@virginia.edu
   description: B.S. student - Civil Engineering
