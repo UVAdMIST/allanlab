@@ -1,0 +1,43 @@
+I"�<h1 id="publications">Publications</h1>
+
+<h2 id="highlights">Highlights</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Trust me, my neighbors say it's raining outside: ensuring data trustworthiness for crowdsourced weather stations</pubtit>
+      <p><img src="/images/pubpic/chen_BuildSys_2018.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Proceedings of the 5th Conference on Systems for Built Environments (BuildSys 2018), pg 25-28, doi:10.1145/3276774.3276792</p>
+      <p><em>Chen, A.B., M. Behl, and J.L. Goodall</em></p>
+      <p><strong><a href="https://doi.org/10.1145/3276774.3276792">Final Article</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Modeling urban coastal flood severity from crowd-sourced flood reports using Poisson regression and Random Forest</pubtit>
+      <p><img src="/images/pubpic/sadler_2018.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Journal of Hydrology, 559, 43–55, doi:10.1016/j.jhydrol.2018.01.044</p>
+      <p><em>Sadler, J.M., Goodall, J.L. and Spencer, K.</em></p>
+      <p><strong><a href="http://dx.doi.org/10.1016/j.jhydrol.2018.01.044">Final Article</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p>Trust me, my neighbors say it’s raining outside: ensuring data trustworthiness for crowdsourced weather stations <br />
+  <em>Chen, A.B., M. Behl, and J.L. Goodall </em><br />Proceedings of the 5th Conference on Systems for Built Environments (BuildSys 2018), pg 25-28, doi:10.1145/3276774.3276792<br /><a href="https://doi.org/10.1145/3276774.3276792">Final Article</a></p>
+
+<p>Modeling urban coastal flood severity from crowd-sourced flood reports using Poisson regression and Random Forest <br />
+  <em>Sadler, J.M., Goodall, J.L. and Spencer, K. </em><br />Journal of Hydrology, 559, 43–55, doi:10.1016/j.jhydrol.2018.01.044<br /><a href="http://dx.doi.org/10.1016/j.jhydrol.2018.01.044">Final Article</a></p>
+
+:ET
